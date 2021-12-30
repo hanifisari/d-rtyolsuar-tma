@@ -5,10 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<sitemap>
-  <loc>https://dörtyolsuarıtma.com/sitemap.xml</loc>
-</sitemap>
-
 <url>
   <loc>https://dörtyolsuarıtma.com/</loc>
   <changefreq>always</changefreq>
