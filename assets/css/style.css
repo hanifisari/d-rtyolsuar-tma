@@ -1153,7 +1153,7 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
-.pricing .box {
+.certificates .box {
   padding: 20px;
   background: #fff;
   text-align: center;
@@ -1162,7 +1162,7 @@ section {
   position: relative;
   overflow: hidden;
 }
-.pricing .box h3 {
+.certificates .box h3 {
   font-weight: 400;
   margin: -20px -20px 20px -20px;
   padding: 20px 15px;
@@ -1171,24 +1171,24 @@ section {
   color: #777777;
   background: #f8f8f8;
 }
-.pricing .box h4 {
+.certificates .box h4 {
   font-size: 36px;
   color: #106eea;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
 }
-.pricing .box h4 sup {
+.certificates .box h4 sup {
   font-size: 20px;
   top: -15px;
   left: -3px;
 }
-.pricing .box h4 span {
+.certificates .box h4 span {
   color: #bababa;
   font-size: 16px;
   font-weight: 300;
 }
-.pricing .box ul {
+.certificates .box ul {
   padding: 0;
   list-style: none;
   color: #444444;
@@ -1196,25 +1196,25 @@ section {
   line-height: 20px;
   font-size: 14px;
 }
-.pricing .box ul li {
+.certificates .box ul li {
   padding-bottom: 16px;
 }
-.pricing .box ul i {
+.certificates .box ul i {
   color: #106eea;
   font-size: 18px;
   padding-right: 4px;
 }
-.pricing .box ul .na {
+.certificates .box ul .na {
   color: #ccc;
   text-decoration: line-through;
 }
-.pricing .btn-wrap {
+.certificates .btn-wrap {
   margin: 20px -20px -20px -20px;
   padding: 20px 15px;
   background: #f8f8f8;
   text-align: center;
 }
-.pricing .btn-buy {
+.certificates .btn-buy {
   background: #106eea;
   display: inline-block;
   padding: 8px 35px 10px 35px;
@@ -1227,14 +1227,14 @@ section {
   font-weight: 600;
   transition: 0.3s;
 }
-.pricing .btn-buy:hover {
+.certificates .btn-buy:hover {
   background: #3b8af2;
 }
-.pricing .featured h3 {
+.certificates .featured h3 {
   color: #fff;
   background: #106eea;
 }
-.pricing .advanced {
+.certificates .advanced {
   width: 200px;
   position: absolute;
   top: 18px;
