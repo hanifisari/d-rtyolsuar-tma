@@ -449,17 +449,17 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 40px;
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #198754;
   font-family: "Poppins", sans-serif;
 }
 #hero h1 span {
   color: #106eea;
 }
 #hero h2 {
-  color: #555555;
+  color: #155bd5;
   margin: 5px 0 30px 0;
-  font-size: 24px;
-  font-weight: 400;
+  font-size: 23px;
+  font-weight: 800;
 }
 #hero .btn-get-started {
   font-family: "Roboto", sans-serif;
@@ -1489,7 +1489,7 @@ section {
   color: #106eea;
 }
 #footer .footer-top .footer-contact p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
@@ -1529,10 +1529,12 @@ section {
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
+  font-size: 16px;
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
   color: #106eea;
+  font-size: 16px;
 }
 #footer .footer-top .social-links a {
   font-size: 18px;
