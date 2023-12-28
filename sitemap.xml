@@ -6,37 +6,37 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://dörtyolsuarıtma.com/</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
-  <loc>https://dörtyolsuarıtma.com/#about</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/#about</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
-  <loc>https://dörtyolsuarıtma.com/#services</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/#services</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
-  <loc>https://dörtyolsuarıtma.com/#portfolio</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/#portfolio</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
-  <loc>https://dörtyolsuarıtma.com/#team</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/#team</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
-  <loc>https://dörtyolsuarıtma.com/#faq</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/#faq</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
-  <loc>https://dörtyolsuarıtma.com/#contact</loc>
+  <loc>https://dörtyolsuarıtma.com.tr/#contact</loc>
   <changefreq>always</changefreq>
   <priority>0.5</priority>
 </url>
