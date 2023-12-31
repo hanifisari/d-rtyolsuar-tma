@@ -1723,7 +1723,7 @@ img {
 	align-items: center;
 	width: 0;
 	height: 0;
-	padding: 35px;
+	padding: 45px;
 	text-decoration: none;
 	border-radius: 50%;
 	animation-name: pulse;
@@ -1742,7 +1742,7 @@ img {
 }
 
 .btn-whatsapp-pulse-border {
-	bottom: 120px;
+	bottom: 80px;
 	right: 20px;
 	animation-play-state: paused;
 }
