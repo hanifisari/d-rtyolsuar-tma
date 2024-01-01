@@ -1,0 +1,6 @@
+Sitemap: https://www.dörtyolsuarıtma.com.tr/sitemap.xml
+Sitemap: https://dörtyolsuarıtma.com.tr/sitemap.xml
+
+User-agent: *
+Allow: /
+
