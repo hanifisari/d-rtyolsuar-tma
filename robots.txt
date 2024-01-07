@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Allow: https://maps.google.com/maps?q=Sanayi,%20D%C3%B6rtyol%20-%20Co%C5%9Fkun%20Su%20Aritma%20Sistemleri,%20Telli%20Sokak,%20D%C3%B6rtyol/Hatay&t=&z=13&ie=UTF8&iwloc=&output=embed
 Sitemap: https://www.dörtyolsuarıtma.com.tr/sitemap.xml
 Sitemap: https://dörtyolsuarıtma.com.tr/sitemap.xml
